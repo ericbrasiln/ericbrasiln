@@ -13,8 +13,6 @@
 
 ### <p align="left">*Main Projects:*</p>
 
----
-
  - [Web Scraping - Anpuh](https://github.com/ericbrasiln/Anais-Anpuh)
  - [Searchable Data Base - Carnival Groups in Rio de Janeiro](https://ericbrasiln.github.io/Sociedades-Carnavalescas-RJ/)
 
