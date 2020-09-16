@@ -1,16 +1,16 @@
-### Hi there 👋
+### <p align="center"> *Prof. Eric Brasil*</p>
 
-<!--
-**ericbrasiln/ericbrasiln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ericbrasiln" alt="ericbrasiln" /> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on digital methods for History projects
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Digital Humanities projects
+- 💬 Ask me about Digital History in Brazil
+- 📫 How to reach me:
+  - profericbrasil@unilab.edu.br
+  - [Twitter](https://twitter.com/ericbrasiln)
 -->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ericbrasiln&show_icons=true" alt="ericbrasiln"/>
+</p>
