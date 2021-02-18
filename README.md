@@ -1,4 +1,8 @@
-### <p align="center"> *Prof. Eric Brasil*</p>
+# <h1 align="center"> *Eric Brasil*</h1>
+
+Professor at the Institute of Humanities and Languages - Unilab, Brazil.
+
+Member of the [LABHDUFBA](http://www.labhd.ufba.br).
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ericbrasiln" alt="ericbrasiln" /> </p>
 
@@ -7,16 +11,23 @@
 - 👯 I’m looking to collaborate on Digital Humanities projects
 - 💬 Ask me about Digital History in Brazil
 - 📫 How to reach me:
-  - profericbrasil@unilab.edu.br
+  - ericbrasiln@protonmail.com
   
 ---
 
 ### <p align="left">*Main Projects:*</p>
 
- - [**Web Scraping** - Anpuh](https://github.com/ericbrasiln/Anais-Anpuh)
+ - **Web Scraping**:
+    - [Anais Anpuh](https://github.com/ericbrasiln/Anais-Anpuh)
+    - [Scielo.org](https://github.com/ericbrasiln/ferramentas_scielo)
+    - [Twitter](https://github.com/ericbrasiln/twitterscraper-LABHD)
  - [Searchable Data Base - Carnival Groups in Rio de Janeiro](https://ericbrasiln.github.io/Sociedades-Carnavalescas-RJ/)
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbrasiln&theme=gotham" />
+</p>
 
 ### *Languages and Tools:*
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -27,7 +38,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ericbrasiln&show_icons=true" alt="ericbrasiln"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ericbrasiln&show_icons=true&theme=gotham" alt="ericbrasiln"/>
 </p>
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -35,8 +46,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/ericbrasiln
-[instagram]: https://instagram.com/profericbrasil
+[instagram]: https://instagram.com/ericbrasiln
 
 ---
 
-*<p align="right">Inspirado pelo README.md de [antoniocruzds](https://github.com/antoniocruzds).</p>*
+*<p align="right">Inspired by [antoniocruzds'](https://github.com/antoniocruzds) README.md.</p>*
