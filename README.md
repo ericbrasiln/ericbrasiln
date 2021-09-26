@@ -4,7 +4,9 @@ Professor at the Institute of Humanities and Languages, University of Internatio
 
 Researcher at the UFBA Digital Humanities Laboratory [(LABHDUFBA)](http://www.labhd.ufba.br).
 
-PhD (2016) and Master (2011) in Social History at Universidade Federal Fluminense. Author of the book A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1879-1888). Editora Prismas, 2016. Winner of the Silvio Romero Monograph Contest, promoted by the National Center for Folklore and Popular Culture, Institute of National Historical and Artistic Heritage (IPHAN) in 2011 and in 2020, first prize and second prize respectively.
+Editor of the [Programming Historian Pt](https://programminghistorian.org/pt/)
+
+PhD (2016) and Master (2011) in Social History at Universidade Federal Fluminense. Author of the book **A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1879-1888)**. Winner of the Silvio Romero Monograph Contest, promoted by the National Center for Folklore and Popular Culture, Institute of National Historical and Artistic Heritage (IPHAN) in 2011 and in 2020, first prize and second prize respectively.
 
 Member of Anpuh's National Emancipations and Post-Abolition Working Group (Gtep / Anpuh).
 
@@ -15,7 +17,7 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ericbrasiln" alt="ericbrasiln" /> </p>
 
 - 🔭 I’m currently working on digital methods for History projects, mainly using web scraping 
-- 👾 I’m currently learning Python 🐍 and R
+- 👾 I’m currently learning Python 🐍
 - 👯 I’m looking to collaborate on multilingual Digital Humanities projects
 - 💬 Ask me about Digital History in Brazil
 - 📫 How to reach me:
@@ -28,7 +30,8 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
 ### <p align="left">*Main Projects:*</p>
 
  - **Web Scraping for Historians**:
-    - [Anais Anpuh](https://github.com/ericbrasiln/Anais-Anpuh)
+    - [Anais Anpuh - Papers](https://github.com/ericbrasiln/Anais-Anpuh)
+    - [Resumos - Anpuh (2013-2021)](https://github.com/ericbrasiln/resumos-anpuh-cli)
     - [Scielo.org](https://github.com/ericbrasiln/ferramentas_scielo)
     - [Twitter](https://github.com/ericbrasiln/twitterscraper-LABHD)
  - [Searchable Data Base - Carnival Groups in Rio de Janeiro](https://ericbrasiln.github.io/Sociedades-Carnavalescas-RJ/)
@@ -54,10 +57,7 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 [twitter]: https://twitter.com/ericbrasiln
-[instagram]: https://instagram.com/ericbrasiln
 
 ---
 
