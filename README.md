@@ -8,7 +8,7 @@ Editor of the [Programming Historian Pt](https://programminghistorian.org/pt/)
 
 PhD (2016) and Master (2011) in Social History at Universidade Federal Fluminense. Author of the book **A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1879-1888)**. Winner of the Silvio Romero Monograph Contest, promoted by the National Center for Folklore and Popular Culture, Institute of National Historical and Artistic Heritage (IPHAN) in 2011 and in 2020, first prize and second prize respectively.
 
-Member of Anpuh's National Emancipations and Post-Abolition Working Group (Gtep / Anpuh).
+Member of Anpuh's Emancipations and Post-Abolition Working Group (Gtep / Anpuh).
 
 Main research areas: Social History of Culture, Humanities and Digital History, Abolition of slavery and Post-Abolition in Brazil and the Caribbean, mainly in the following themes: Carnival, Citizenship, Transnational History, African Diaspora, History of Afro-Americas, Digital History, Digital Newspapers Archives, Digital research methods, programming languages for research in History, web scraping.
 
@@ -28,7 +28,7 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
 ---
 
 ### <p align="left">*Main Projects:*</p>
-
+ - [**Heuristic tool for the Brazilian Newspaper digital Library – H_HDB**](https://github.com/ericbrasiln/H_HDB)
  - **Web Scraping for Historians**:
     - [Anais Anpuh - Papers](https://github.com/ericbrasiln/Anais-Anpuh)
     - [Resumos - Anpuh (2013-2021)](https://github.com/ericbrasiln/resumos-anpuh-cli)
