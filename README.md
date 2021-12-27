@@ -28,11 +28,11 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
 ---
 
 ### <p align="left">*Main Projects:*</p>
- - [**Heuristic tool for the Brazilian Newspaper digital Library – H_HDB**](https://github.com/ericbrasiln/H_HDB)
+ - [**pyHDB - Heuristic tool for the Brazilian Newspaper digital Library**](https://github.com/ericbrasiln/pyHDB)
  - **Web Scraping for Historians**:
     - [Anais Anpuh - Papers](https://github.com/ericbrasiln/Anais-Anpuh)
     - [Resumos - Anpuh (2013-2021)](https://github.com/ericbrasiln/resumos-anpuh-cli)
-    - [Scielo.org](https://github.com/ericbrasiln/ferramentas_scielo)
+    - [Scielo.org](https://github.com/ericbrasiln/ferramentas_scielo_v2)
     - [Twitter](https://github.com/ericbrasiln/twitterscraper-LABHD)
  - [Searchable Data Base - Carnival Groups in Rio de Janeiro](https://ericbrasiln.github.io/Sociedades-Carnavalescas-RJ/)
  - [Repositório Digital das Humanidades (PT-BR) - REDHBR](https://labhdufba.github.io/redhbr/)
