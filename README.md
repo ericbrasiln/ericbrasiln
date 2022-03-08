@@ -29,19 +29,29 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
 
 ### <p align="left">*Main Projects:*</p>
  - [**pyHDB - Heuristic tool for the Brazilian Newspaper digital Library**](https://github.com/ericbrasiln/pyHDB)
- - **Web Scraping for Historians**:
-    - [Anais Anpuh - Papers](https://github.com/ericbrasiln/Anais-Anpuh)
-    - [Resumos - Anpuh (2013-2021)](https://github.com/ericbrasiln/resumos-anpuh-cli)
-    - [Scielo.org](https://github.com/ericbrasiln/ferramentas_scielo_v2)
-    - [Twitter](https://github.com/ericbrasiln/twitterscraper-LABHD)
+ - [**ferramentas_scielo_v2**](https://labhdufba.github.io/ferramentas_scielo_v2)
+ - [CLI Resumos ANPUH (2013-2021)](https://github.com/ericbrasiln/resumos-anpuh-cli)
+ - [Anais ANPUH - Papers](https://github.com/ericbrasiln/Anais-Anpuh)
  - [Searchable Data Base - Carnival Groups in Rio de Janeiro](https://ericbrasiln.github.io/Sociedades-Carnavalescas-RJ/)
  - [Repositório Digital das Humanidades (PT-BR) - REDHBR](https://labhdufba.github.io/redhbr/)
 
 ---
 
+### <p align="left">*Undergraduate Courses:*</p>
+ - [**CCLHM0057 - História das Américas: Colonização e resistência**](https://cclhm0057.netlify.app/)
+ - [**CCLHM0069 - Introdução à História Digital**](https://ericbrasiln.github.io/intro-historia-digital)
+ - [**Ferramentas Digitais e a pesquisa em Humanidades**](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/)
+
+---
+
+### <p align="left">*Postgraduate Courses:*</p>
+ - [**PPGCS012 - Ciências Social Computacional**](https://ppgcs012.netlify.app/)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbrasiln&theme=gotham" />
 </p>
+
+---
 
 ### *Languages and Tools:*
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
