@@ -2,6 +2,8 @@
 
 Professor at the Institute of Humanities and Languages, University of International Integration of Afro-Brazilian Lusophony (IHLM-UNILAB), Malês campus. 
 
+Visiting Researcher at the [Digital Humanities Lab](https://dhlab.fcsh.unl.pt/), IHC, NOVA-FCSH
+
 Researcher at the UFBA Digital Humanities Laboratory [(LABHDUFBA)](http://www.labhd.ufba.br).
 
 Editor of the [Programming Historian Pt](https://programminghistorian.org/pt/)
@@ -21,14 +23,15 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
 - 👯 I’m looking to collaborate on multilingual Digital Humanities projects
 - 💬 Ask me about Digital History in Brazil
 - 📫 How to reach me:
-  - ericbrasiln@protonmail.com
+  - ericbrasiln@proton.me
   - profericbrasil@unilab.edu.br
 - 💻 [Personal website](https://ericbrasiln.github.io/)
+- 🌳 [Linktree](https://linktr.ee/ericbrasil)
   
 ---
 
 ### <p align="left">*Main Projects:*</p>
- - [**pyHDB - Heuristic tool for the Brazilian Newspaper digital Library**](https://github.com/ericbrasiln/pyHDB)
+ - [**pyHDB - Heuristic tool for the Brazilian Newspaper digital Library**](https://ericbrasiln.github.io/pyHDB)
  - [**ferramentas_scielo_v2**](https://labhdufba.github.io/ferramentas_scielo_v2)
  - [CLI Resumos ANPUH (2013-2021)](https://github.com/ericbrasiln/resumos-anpuh-cli)
  - [Anais ANPUH - Papers](https://github.com/ericbrasiln/Anais-Anpuh)
