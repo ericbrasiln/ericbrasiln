@@ -1,5 +1,7 @@
 # <h1 align="center"> *Eric Brasil*</h1>
 
+<p align="center"> <img src="https://i.giphy.com/media/Xch9I90tRezyicQgma/giphy.webp" alt="walle" /> </p>
+
 Professor at the Institute of Humanities and Languages, University of International Integration of Afro-Brazilian Lusophony (IHLM-UNILAB), Malês campus. 
 
 Visiting Researcher at the [Digital Humanities Lab](https://dhlab.fcsh.unl.pt/), IHC, NOVA-FCSH
@@ -30,6 +32,19 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
   
 ---
 
+### *Languages and Tools:*
+
+[![My Skills](https://skillicons.dev/icons?i=py,selenium,bash,git,github,md,vscode)](https://skillicons.dev)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ericbrasil&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbrasiln&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+
+---
+
 ### <p align="left">*Main Projects:*</p>
  - [**pyHDB - Heuristic tool for the Brazilian Newspaper digital Library**](https://ericbrasiln.github.io/pyHDB)
  - [**ferramentas_scielo_v2**](https://labhdufba.github.io/ferramentas_scielo_v2)
@@ -50,23 +65,7 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
 ### <p align="left">*Postgraduate Courses:*</p>
  - [**PPGCS012 - Ciências Social Computacional**](https://ppgcs012.netlify.app/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbrasiln&theme=gotham" />
-</p>
-
 ---
-
-### *Languages and Tools:*
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ericbrasiln&show_icons=true&theme=gotham" alt="ericbrasiln"/>
-</p>
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
