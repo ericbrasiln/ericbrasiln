@@ -39,7 +39,7 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ericbrasil&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ericbrasiln&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbrasiln&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
