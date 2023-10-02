@@ -47,6 +47,7 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
 
 ### <p align="left">*Main Projects:*</p>
  - [**pyHDB - Heuristic tool for the Brazilian Newspaper digital Library**](https://ericbrasiln.github.io/pyHDB)
+ - [**HEMDIG(pt) Framework: Métodos, ferramentas e hemerotecas digitais em português**](https://ericbrasiln.github.io/hemdig-framework/)
  - [**ferramentas_scielo_v2**](https://labhdufba.github.io/ferramentas_scielo_v2)
  - [CLI Resumos ANPUH (2013-2021)](https://github.com/ericbrasiln/resumos-anpuh-cli)
  - [Anais ANPUH - Papers](https://github.com/ericbrasiln/Anais-Anpuh)
