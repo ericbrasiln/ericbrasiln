@@ -4,15 +4,15 @@
 
 Professor at the Institute of Humanities and Languages, University of International Integration of Afro-Brazilian Lusophony (IHLM-UNILAB), Malês campus. 
 
-Visiting Researcher at the [Digital Humanities Lab](https://dhlab.fcsh.unl.pt/), IHC, NOVA-FCSH
-
 Researcher at the UFBA Digital Humanities Laboratory [(LABHDUFBA)](http://www.labhd.ufba.br).
 
 Editor of the [Programming Historian Pt](https://programminghistorian.org/pt/)
 
+Former Visiting Researcher at the [Digital Humanities Lab](https://dhlab.fcsh.unl.pt/), IHC, NOVA-FCSH (2022 - 2023)
+
 PhD (2016) and Master (2011) in Social History at Universidade Federal Fluminense. Author of the book **A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1879-1888)**. Winner of the Silvio Romero Monograph Contest, promoted by the National Center for Folklore and Popular Culture, Institute of National Historical and Artistic Heritage (IPHAN) in 2011 and in 2020, first prize and second prize respectively.
 
-Member of Anpuh's Emancipations and Post-Abolition Working Group (Gtep / Anpuh).
+Member of [Anpuh](https://anpuh.org.br/)'s Emancipations and Post-Abolition Working Group (Gtep / Anpuh).
 
 Main research areas: Social History of Culture, Humanities and Digital History, Abolition of slavery and Post-Abolition in Brazil and the Caribbean, mainly in the following themes: Carnival, Citizenship, Transnational History, African Diaspora, History of Afro-Americas, Digital History, Digital Newspapers Archives, Digital research methods, programming languages for research in History, web scraping.
 
@@ -20,7 +20,7 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ericbrasiln" alt="ericbrasiln" /> </p>
 
-- 🔭 I’m currently working on digital methods for History projects, mainly using web scraping 
+- 🔭 I’m currently working on digital methods for History projects
 - 👾 I’m currently learning Python 🐍
 - 👯 I’m looking to collaborate on multilingual Digital Humanities projects
 - 💬 Ask me about Digital History in Brazil
@@ -34,7 +34,7 @@ Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
 
 ### *Languages and Tools:*
 
-[![My Skills](https://skillicons.dev/icons?i=py,selenium,bash,git,github,md,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,selenium,bash,git,github,md,neovim,vscode)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats ⚡</summary>
