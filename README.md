@@ -1,96 +1,91 @@
-# <h1 align="center"> *Eric Brasil*</h1>
+<div align="center">
 
-<p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpwempheG5pbzdtc2JsdTR3OW14Y3J3MTJyMm9kMDExZW5uOHYxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xch9I90tRezyicQgma/giphy.gif" alt="walle" /> </p>
+# Eric Brasil
 
-Professor at the Institute of Humanities and Languages, University of International Integration of Afro-Brazilian Lusophony (IHLM-UNILAB), Malês campus.
+**Historian · Digital Humanities · AI agents for research**
 
-Researcher at the UFBA Digital Humanities Laboratory [(LABHDUFBA)](http://www.labhd.ufba.br).
+Professor at the Institute of Humanities and Languages, [UNILAB](https://www.unilab.edu.br/) (Malês campus)
+Researcher at [LABHDUFBA](https://labhdufba.github.io) · Faculty at [PPGIHD/UFRRJ](https://portal.ufrrj.br/proppg/ppgihd/)
 
-Professor of the Interdisciplinary Master's Degree in Digital Humanities at the Federal Rural University of Rio de Janeiro [(PPGIHD-UFRRJ)](https://portal.ufrrj.br/proppg/ppgihd/)
+[![Website](https://img.shields.io/badge/ericbrasil.com.br-1F4E79?style=flat-square)](https://ericbrasil.com.br)
+[![ORCID](https://img.shields.io/badge/ORCID_0000--0001--5067--8475-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5067-8475)
+[![Linktree](https://img.shields.io/badge/linktree-43E660?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/ericbrasil)
+[![X](https://img.shields.io/badge/@ericbrasiln-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/ericbrasiln)
 
-CNPq DTI-A Research Fellow — Project: *Ecossistemas multiplataforma e ataques à integridade da informação em saúde* (CNPq/Decit/SECTICS/MS No. 30/2024)
-
-Editor of the [Programming Historian Pt](https://programminghistorian.org/pt/)
-
-Former Visiting Researcher at the [Digital Humanities Lab](https://dhlab.fcsh.unl.pt/), IHC, NOVA-FCSH (2022–2023)
-
-PhD (2016) and Master (2011) in Social History at Universidade Federal Fluminense. Author of the book **A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1879-1888)**. Winner of the Silvio Romero Monograph Contest, promoted by the National Center for Folklore and Popular Culture, IPHAN, in 2011 (1st place) and 2020 (2nd place).
-
-Member of [Anpuh](https://anpuh.org.br/)'s Emancipations and Post-Abolition Working Group (Gtep/Anpuh).
-
-Main research areas: Social History of Culture, Humanities and Digital History, Abolition of slavery and Post-Abolition in Brazil and the Caribbean, mainly in the following themes: Carnival, Citizenship, Transnational History, African Diaspora, History of Afro-Americas, Digital History, Digital Newspapers Archives, Digital research methods, programming languages for research in History, web scraping, **Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) applied to Humanities research**.
-
-Elementary and high school teacher in Rio de Janeiro between 2007 and 2017.
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ericbrasiln" alt="ericbrasiln" /> </p>
-
-- 🔭 I'm currently working on digital methods for History projects and **LLMs & RAG pipelines applied to Humanities research**
-- 👾 I'm currently learning Python 🐍
-- 👯 I'm looking to collaborate on multilingual Digital Humanities projects
-- 💬 Ask me about Digital History in Brazil
-- 📫 How to reach me:
-  - ericbrasiln@proton.me
-  - profericbrasil@unilab.edu.br
-- 💻 [Personal website](https://ericbrasil.com.br)
-- 🌳 [Linktree](https://linktr.ee/ericbrasil)
-- 🔬 [ORCID](https://orcid.org/0000-0001-5067-8475)
+</div>
 
 ---
 
-### *Languages and Tools:*
+## Now
 
-[![My Skills](https://skillicons.dev/icons?i=py,selenium,bash,git,github,md,neovim,vscode)](https://skillicons.dev)
+- **AI agents for humanities research** — designing LLM agents and [Social-RAG](https://github.com/LABHDUFBA/social-rag) pipelines that expand scholarly reading while keeping epistemological control (LABHDUFBA)
+- **Multi-platform disinformation ecosystems and attacks on health information integrity** — CNPq DTI-A research fellowship (CNPq/Decit/SECTICS/MS nº 30/2024), in partnership with ISC/UFBA
+- **OAI-PMH harvesting of Brazilian OJS journals** — [ojs-brazil-harvest](https://github.com/LABHDUFBA/ojs-brazil-harvest)
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ericbrasiln&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbrasiln&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+## About
 
----
+PhD (2016) and MA (2011) in Social History (Universidade Federal Fluminense). Author of ***A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1879–1888)***, winner of the Silvio Romero Monograph Contest (IPHAN/CNFCP) in 2011 (1st place) and 2020 (2nd place). Editor of the [Programming Historian em português](https://programminghistorian.org/pt/). Former visiting researcher at the [Digital Humanities Lab](https://dhlab.fcsh.unl.pt/), IHC, NOVA University of Lisbon — FCSH (2022–2023). Member of [Anpuh](https://anpuh.org.br/)'s Emancipations and Post-Abolition Working Group (Gtep/Anpuh).
 
-### <p align="left">*Main Projects:*</p>
- - [**pyHDB - Heuristic tool for the Brazilian Newspaper digital Library**](https://ericbrasiln.github.io/pyHDB)
- - [**HEMDIG(pt) Framework: Métodos, ferramentas e hemerotecas digitais em português**](https://ericbrasiln.github.io/hemdig-framework/)
- - [**ferramentas_scielo_v2**](https://labhdufba.github.io/ferramentas_scielo_v2)
- - [CLI Resumos ANPUH (2013-2021)](https://github.com/ericbrasiln/resumos-anpuh-cli)
- - [Anais ANPUH - Papers](https://github.com/ericbrasiln/Anais-Anpuh)
- - [Searchable Data Base - Carnival Groups in Rio de Janeiro](https://ericbrasiln.github.io/Sociedades-Carnavalescas-RJ/)
- - [Repositório Digital das Humanidades (PT-BR) - REDHBR](https://labhdufba.github.io/redhbr/)
+## Research interests
 
----
+| Digital History & Humanities | Social History of Culture |
+|---|---|
+| Digital heuristics · digital newspaper archives · web scraping · NLP · LLMs, RAG & AI agents · research software | Abolition & post-abolition in Brazil and the Caribbean · carnival and Black citizenship · Afro-Atlantic history · transnational history |
 
-### <p align="left">*Selected Publications (2020–2026):*</p>
+## Selected software
+
+| Project | Description |
+|---|---|
+| [pyHDB](https://ericbrasiln.github.io/pyHDB) | Heuristic tool for the Brazilian Digital Newspaper Library (Hemeroteca Digital Brasileira) |
+| [HemDig(pt)](https://ericbrasiln.github.io/hemdig-framework/) | Framework for methods, tools, and digital newspaper archives in Portuguese |
+| [social-rag](https://github.com/LABHDUFBA/social-rag) | Retrieval-Augmented Generation pipeline for computational social science on Telegram |
+| [ojs-brazil-harvest](https://github.com/LABHDUFBA/ojs-brazil-harvest) | OAI-PMH metadata collection from Brazilian OJS journals |
+| [ferramentas_scielo_v2](https://labhdufba.github.io/ferramentas_scielo_v2) | Scraping and analysis tools for SciELO.br academic articles |
+| [resumos-anpuh-cli](https://github.com/ericbrasiln/resumos-anpuh-cli) | CLI for scraping abstracts from Anpuh National Symposia (2013–2021) |
+| [Sociedades-Carnavalescas-RJ](https://ericbrasiln.github.io/Sociedades-Carnavalescas-RJ/) | Searchable database of carnival groups in Rio de Janeiro |
+| [REDHBR](https://labhdufba.github.io/redhbr/) | Digital Humanities Repository (PT-BR) |
+
+## Selected publications (2020–2026)
 
 **Preprint**
-- NASCIMENTO, L. F.; BRASIL, E.; et al. Social-RAG: A Retrieval-Augmented Generation Pipeline for Computational Social Science Research on Telegram. 2026.
 
-**Journal Articles**
-- BRASIL, Eric. Interfaces de hemerotecas digitais em português: análise crítica e desafios para o desenvolvimento de uma nova geração de acervos históricos. *MATRAGA*, v. 32, p. 325-346, 2025.
-- BRASIL, Eric; SILVEIRA, P. V.; VELOSO, A. C. Desafios e expectativas da prática da história na Era Digital: percepções de docentes de história nas instituições de ensino superior na Bahia. *Boletim do Tempo Presente*, v. 13, p. 140-171, 2024.
-- SILVEIRA, P. V.; BRASIL, Eric. Métodos e ferramentas digitais na pesquisa em História. *TEKOA*, v. 2, p. 1-22, 2023.
-- BRASIL, Eric. Git como ferramenta metodológica em projetos de História (parte 1). *Programming Historian em português* 3, 2023. [DOI](https://doi.org/10.46430/phpt0045)
-- BRASIL, Eric. pyHDB - Ferramenta Heurística para a Hemeroteca Digital Brasileira. *História da Historiografia*, v. 15, n. 40, p. 186-217, 2022. [DOI](https://doi.org/10.15848/hh.v15i40.1904)
-- BRASIL, Eric; NASCIMENTO, L. F. História Digital: reflexões a partir da Hemeroteca Digital Brasileira e o uso de CAQDAS. *Estudos Históricos*, v. 33, p. 196-219, 2020. [DOI](http://dx.doi.org/10.1590/S2178-14942020000100011)
+- NASCIMENTO, L. F.; BRASIL, E.; et al. *Social-RAG: A Retrieval-Augmented Generation Pipeline for Computational Social Science Research on Telegram.* 2026.
 
-**Book Chapters**
-- BRASIL, Eric. Entre a interface de usuário e a produção do conhecimento histórico. In: **Memórias digitais**. Editora HN, 2024, p. 185-199.
-- BRASIL, Eric; NASCIMENTO, L. F. Por uma História Social Digital. In: **História digital**. Editora Vozes, 2022, p. 228-252.
-- BRASIL, Eric; NASCIMENTO, L. F. A ferramenta de busca da Hemeroteca Digital Brasileira e o ofício do historiador. In: **Caminhos da história digital no Brasil**. Editora Milfontes, 2022, p. 209-228.
+**Journal articles**
+
+- BRASIL, E. Interfaces de hemerotecas digitais em português: análise crítica e desafios para o desenvolvimento de uma nova geração de acervos históricos. *Matraga*, v. 32, 2025.
+- BRASIL, E.; SILVEIRA, P. V.; VELOSO, A. C. Desafios e expectativas da prática da história na Era Digital: percepções de docentes de história nas instituições de ensino superior na Bahia. *Boletim do Tempo Presente*, v. 13, 2024.
+- SILVEIRA, P. V.; BRASIL, E. Métodos e ferramentas digitais na pesquisa em História. *Tekoa*, v. 2, 2023.
+- BRASIL, E. [Git como ferramenta metodológica em projetos de História (parte 1)](https://doi.org/10.46430/phpt0045). *Programming Historian em português*, nº 3, 2023.
+- BRASIL, E. [pyHDB — Ferramenta Heurística para a Hemeroteca Digital Brasileira](https://doi.org/10.15848/hh.v15i40.1904). *História da Historiografia*, v. 15, n. 40, 2022.
+- BRASIL, E.; NASCIMENTO, L. F. [História Digital: reflexões a partir da Hemeroteca Digital Brasileira e o uso de CAQDAS](https://doi.org/10.1590/S2178-14942020000100011). *Estudos Históricos*, v. 33, 2020.
+
+**Book chapters**
+
+- BRASIL, E. Entre a interface de usuário e a produção do conhecimento histórico. In: *Memórias digitais*. Editora HN, 2024.
+- BRASIL, E.; NASCIMENTO, L. F. Por uma História Social Digital. In: *História digital*. Editora Vozes, 2022.
+- BRASIL, E.; NASCIMENTO, L. F. A ferramenta de busca da Hemeroteca Digital Brasileira e o ofício do historiador. In: *Caminhos da história digital no Brasil*. Editora Milfontes, 2022.
+
+## Teaching
+
+**Undergraduate (UNILAB)**
+
+- [CCLHM0076 — História das Américas: colonização e resistência](https://ericbrasil.com.br/cclhm0076/)
+- [CCLHM0081 — História da América Independente](https://ericbrasil.com.br/cclhm0081/)
+
+**Graduate**
+
+- [PPGCS012 — Computational Social Science (PPGCS/UFBA)](https://ppgcs012.netlify.app/)
+- [IM-1256 — Introdução à História Digital (PPGIHD/UFRRJ)](https://ericbrasil.com.br/hd-ufrrj/)
 
 ---
 
-### <p align="left">*Undergraduate Courses:*</p>
- - [**CCLHM0076 - História das Américas: Colonização e resistência**](https://ericbrasil.com.br/cclhm0076/)
- - [**CCLHM0081 - História da América Independente**](https://ericbrasil.com.br/cclhm0081/)
+<div align="center">
 
----
+[![Skills](https://skillicons.dev/icons?i=py,r,bash,git,github,md,neovim,vscode&perline=8)](https://skillicons.dev)
 
-### <p align="left">*Postgraduate Courses:*</p>
- - [**PPGCS012 - Ciências Social Computacional**](https://ppgcs012.netlify.app/)
- - [**IM-1256 - Introdução à História Digital (PPGIHD-UFRRJ)**](https://ericbrasil.com.br/hd-ufrrj/)
+📫 [profericbrasil@unilab.edu.br](mailto:profericbrasil@unilab.edu.br) · [ericbrasiln@proton.me](mailto:ericbrasiln@proton.me)
 
----
+<sub>Profile README maintained with [Hermes Agent](https://hermes-agent.nousresearch.com) · September 2026</sub>
 
-*<p align="right">Inspired by [antoniocruzds'](https://github.com/antoniocruzds) README.md.</p>*
+</div>
