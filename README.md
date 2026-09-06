@@ -10,7 +10,7 @@ Researcher at [LABHDUFBA](https://labhdufba.github.io) · Faculty at [PPGIHD/UFR
 [![Website](https://img.shields.io/badge/ericbrasil.com.br-1F4E79?style=flat-square)](https://ericbrasil.com.br)
 [![ORCID](https://img.shields.io/badge/ORCID_0000--0001--5067--8475-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5067-8475)
 [![Linktree](https://img.shields.io/badge/linktree-43E660?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/ericbrasil)
-[![X](https://img.shields.io/badge/@ericbrasiln-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/ericbrasiln)
+[![Instagram](https://img.shields.io/badge/@ericbrasiln-181717?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ericbrasiln)
 
 </div>
 
@@ -24,7 +24,7 @@ Researcher at [LABHDUFBA](https://labhdufba.github.io) · Faculty at [PPGIHD/UFR
 
 ## About
 
-PhD (2016) and MA (2011) in Social History (Universidade Federal Fluminense). Author of ***A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1879–1888)***, winner of the Silvio Romero Monograph Contest (IPHAN/CNFCP) in 2011 (1st place) and 2020 (2nd place). Editor of the [Programming Historian em português](https://programminghistorian.org/pt/). Former visiting researcher at the [Digital Humanities Lab](https://dhlab.fcsh.unl.pt/), IHC, NOVA University of Lisbon — FCSH (2022–2023). Member of [Anpuh](https://anpuh.org.br/)'s Emancipations and Post-Abolition Working Group (Gtep/Anpuh).
+PhD (2016) and MA (2011) in Social History (Universidade Federal Fluminense). Author of ***A Corte em Festa: experiências negras em carnavais do Rio de Janeiro (1879–1888)***, winner of the Silvio Romero Monograph Contest (IPHAN/CNFCP) in 2011 (1st place) and 2020 (2nd place). Managing Editor of the [Programming Historian em português](https://programminghistorian.org/pt/). Former visiting researcher at the [Digital Humanities Lab](https://dhlab.fcsh.unl.pt/), IHC, NOVA University of Lisbon — FCSH (2022–2023). Member of [Anpuh](https://anpuh.org.br/)'s Emancipations and Post-Abolition Working Group (Gtep/Anpuh).
 
 ## Research interests
 
